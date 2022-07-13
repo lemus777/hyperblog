@@ -45,6 +45,11 @@ body {
     padding: 1em;
 }
 
+#imagen {
+    width: 100%;
+    margin: 2px auto;
+}
+
 #footer {
     background: #777;
     color: white;
